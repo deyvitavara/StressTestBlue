@@ -1,0 +1,6 @@
+endpoint: "https://api.ejemplo.com/data"
+concurrency: 20
+duration: 30
+method: "POST"
+body: '{"nombre": "Deyvi"}'
+headers: "Content-Type: application/json"
